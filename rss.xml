@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[MAIArchitects           Marcuccio - Architecture & Interior Architects]]></title>
+        <description><![CDATA[MAIArchitects           Marcuccio - Architecture & Interior Architects]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 07 Feb 2016 12:28:20 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[MAIArchitects]]></title>
+            <description><![CDATA[<article><h1>MAIArchitects</h1><p>Marcuccio - Architecture & Interior Architects</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/935c644efb11706ea6bf0dec70c45eedd99317ac.png"></article>]]></description>
+            <link>undefinedmaiarchitects/index.html</link>
+            <guid isPermaLink="false">24a87388-d4a8-4dd9-bdcb-2410b846c3bb</guid>
+            <pubDate>Sun, 07 Feb 2016 12:28:20 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
